@@ -1,0 +1,7 @@
+<resources>
+    <string name="app_name">QuickBooks App</string>
+    <string name="create_note_title">Create Note</string>
+    <string name="view_edit_note_title">View/Edit Note</string>
+</resources>
+
+
